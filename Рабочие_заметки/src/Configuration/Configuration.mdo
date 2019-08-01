@@ -891,6 +891,7 @@
   <constants>Constant.СтатусОбновленияКонфигурации</constants>
   <constants>Constant.ХранитьФайлыВТомахНаДиске</constants>
   <constants>Constant.ЭтоАвтономноеРабочееМесто</constants>
+  <constants>Constant.Константа_Тест</constants>
   <commonForms>CommonForm.БлокировкаРаботыСВнешнимиРесурсами</commonForms>
   <commonForms>CommonForm.ВводЗначенийСпискомСФлажками</commonForms>
   <commonForms>CommonForm.ВопросОбУстановкеВнешнейКомпоненты</commonForms>
